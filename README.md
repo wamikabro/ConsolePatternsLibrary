@@ -18,4 +18,12 @@
 </ol>
 
 <h2>Rules of Contribution</h2>
-
+<ol>
+  <li>Make sure the language you're going to use is present in supported languages section above.</li>
+  <li>Pattern must be dynamic. Even if it's based on different dimensions, it must take some sort of size as input.</li>
+  <li>Pattern must be made inside a static int return type method. (Method name should be unique from all other methods).</li>
+  <li>You can use asteric(stars), numbers, symbols and alphabets (and their mixture) in the pattern. (Basically all the ascii supported characters)</li>
+  <li>Only For loop and its variations are allowed.</li>
+  <li>Pattern must not contain nudity, racism or hate visuals (Country or Ethnic Flags are allowed).</li>
+  <li>Make sure to add single pattern in 1 contribution. You're welcomed to do multiple contributions.</li>
+</ol>
