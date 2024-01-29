@@ -33,7 +33,7 @@
   <li>You can use asteric(stars), numbers, symbols and alphabets (and their mixture) in the pattern. (Basically all the ascii supported characters)</li>
   <li>Only For loop from the loops and its variations are allowed.</li>
   <li>Temporarily make main method and call your method inside it to verify it's working fine and screenshot the output.</li>
-  <li>Call your method inside another public method in JavaPatterns.java class present in the Java package (Let's call this method <i><b>Pattern's method</b></i>). (make sure to pass all the parameters respectfully from the newly created method to the method that you called.</li>
+  <li>Call your method inside another public method in JavaPatterns.java class present in the Java package (Let's call this method <i><b>Pattern's method</b></i>). (make sure to pass all the parameters respectively from the newly created method to the method that you called.</li>
   <li>Pattern's Method name should be in Camel Case.</li>
   <li>Pattern's Method name should be in this format <br/>
 [DataType] [PatternType] [Idea] eg. numberedHollowTriangle(). (You can get an idea from the already written code above in the file).<br/>
