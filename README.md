@@ -32,7 +32,7 @@
   <li>You can use multiple private methods to support your private method.</li>
   <li>You can use asteric(stars), numbers, symbols and alphabets (and their mixture) in the pattern. (Basically all the ascii supported characters)</li>
   <li>Only For loop from the loops and its variations are allowed.</li>
-  <li>Call your method inside another public method in JavaPatterns.java class present in the repository. It has already imported all the classes that are inside Java. (make sure to pass all the parameters respectfully from the newly created method to the method that you called. (your protected pattern method from the class that you created)</li>
+  <li>Call your method inside another public method in Java.JavaPatterns.java class present in the repository. It has already imported all the classes that are inside Java. (make sure to pass all the parameters respectfully from the newly created method to the method that you called. (your protected pattern method from the class that you created)</li>
   <li>Newly created Method's name should be in Camel Case.</li>
   <li>Newly created Method's name should be in this format <br/>
 [DataType] [PatternType] [Idea] eg. numberedHollowTriangle(). (You can get an idea from the already written code above in the file).<br/>
