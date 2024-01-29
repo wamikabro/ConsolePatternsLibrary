@@ -1,10 +1,9 @@
 # ConsolePatternsLibrary
-<p>Your all in one library that contains all the patterns that you would love to visualize in your console window. Your contributions are welcomed. Together we build beautiful patterns. (Only Java and Python is supported at the moment.)</p>
+<p>Your all in one library that contains all the patterns that you would love to visualize in your console window. Your contributions are welcomed. Together we build beautiful patterns.</p>
 <p><b>Note: Before Commiting, must read How to Contribute?, Supported Languages and Contribution Rules.</b></p>
 <h2>Supported Languages</h2>
 <ol>
   <li>Java</li>
-  <li>Python</li>
 </ol>
 
 <h2>How to Contribute?</h2>
