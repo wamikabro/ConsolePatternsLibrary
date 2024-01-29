@@ -1,6 +1,6 @@
 # ConsolePatternsLibrary
-<p>Your all in one library that contains all the patterns that you would love to visualize in your console window. Your contributions are welcomed. Together we build beautiful patterns.</p>
-<p><b>Note: Before Commiting, must read How to Contribute?, Supported Languages and Contribution Rules.</b></p>
+<p>Your all-in-one library that contains all the patterns that you would love to visualize in your console window. Your contributions are welcomed. Together we build beautiful patterns.</p>
+<p><b>Note: Before Committing, must read How to Contribute?, Supported Languages and Contribution Rules.</b></p>
 <h2>Supported Languages</h2>
 <ol>
   <li>Java</li>
@@ -25,7 +25,7 @@
   <li>Pattern must not contain nudity, racism or hate visuals (Country or Ethnic Flags are allowed).</li>
   <li>Make sure to add single pattern in single contribution. You're welcomed to do multiple contributions.</li>
   <li>Pattern must be dynamic. Even if it's based on different dimensions, it must take some sort of size as input.</li>
-  <li>Make default access class with your pattern's method name in pascal case inside Java package. (pattern's method name is defined in details below). </li>
+  <li>Make default access class with your Pattern's Method name in pascal case inside Java package. (pattern's method name is defined in details below). </li>
   <li>Pattern must be made inside a <b>protected static void</b> type method.</li>
   <li>Method name should be pattern().</li>
   <li>Method should contain single pattern.</li>
@@ -41,7 +41,7 @@ DataType = Numbered / Alphabetic / Symboled / Mixed     Default: Asterisk (No ne
 PatternType = Solid / Hollow / Mixed<br/>
 Idea = Meaningful Name for your idea. (Use pascal case for compound words eg. PakistaniFlag)
   </li>
-  <li>Add the Pattern's Method name and image of the result of calling it inside JavaPatternList (You can get an idea from the already written code above in the file).</li>
+  <li>Add the Pattern's Method name, Signature and URL (Get URL by uploading the screenshot in any github repository) of the result's image of calling it inside JavaPatternList (You can get an idea from the already written code above in the file).</li>
 </ol>
 <p>You will get an idea easily after forking and then cloning the repository. Every default class contains documentation that will help you work.</p>
 <p>Thanks for the contribution in advance!</p>
