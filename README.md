@@ -18,22 +18,27 @@
   <li>Open a Pull Request once you're done.</li>
 </ol>
 
-<h2>Rules of Contribution</h2>
+<h2>Rules and Guide to Contribution</h2>
 <ol>
   <li>Make sure the language you're going to use is present in supported languages section above.</li>
   <li>Make sure pattern isn't already available in the same language.</li>
+  <li>Pattern must not contain nudity, racism or hate visuals (Country or Ethnic Flags are allowed).</li>
+  <li>Make sure to add single pattern in single contribution. You're welcomed to do multiple contributions.</li>
   <li>Pattern must be dynamic. Even if it's based on different dimensions, it must take some sort of size as input.</li>
-  <li>Pattern must be made inside a static int return type method. (Method name should be unique from all other methods).</li>
-  <li>Method name should be in Camel Case.</li>
-  <li>Method's name should be in this format [DataType][PatternType][PatternName] eg. numberedHollowTriangle().
-DataType = Numbered / Alphabetic / Symboled / Mixed Default: Asterisk (No need to  mention it)
-PatternType = Hollow / Mixed Default: Filled (No need to mention it)
-PatternName = Meaningful Name for your idea. (Use pascal case for compound words)
-  </li>
+  <li>Make class with your method name in pascal case inside your specified language Folder. (method name is defined in details below). </li>
+  <li>Pattern must be made inside a <b>private static int</b> return type method.</li>
+  <li>Method name should be pattern().</li>
   <li>Method should contain single pattern.</li>
-  <li>You can use multiple private methods to support your public method.</li>
+  <li>You can use multiple private methods to support your private method.</li>
   <li>You can use asteric(stars), numbers, symbols and alphabets (and their mixture) in the pattern. (Basically all the ascii supported characters)</li>
   <li>Only For loop from the loops and its variations are allowed.</li>
-  <li>Pattern must not contain nudity, racism or hate visuals (Country or Ethnic Flags are allowed).</li>
-  <li>Make sure to add single pattern in 1 contribution. You're welcomed to do multiple contributions.</li>
+  <li>Call your method inside another public method in your language specified main class present in the repository. eg. JavaPatterns.java (make sure to pass all the parameters respectfully from the newly created method to the method that you called. (your protected pattern method from the class that you created)</li>
+  <li>Newly created Method's name should be in Camel Case.</li>
+  <li>Newly created Method's name should be in this format <br/>
+[DataType] [PatternType] [Idea] eg. numberedHollowTriangle(). (You can get an idea from the already written code above in the file).<br/>
+DataType = Numbered / Alphabetic / Symboled / Mixed     Default: Asterisk (No need to  mention it) <br/>
+PatternType = Hollow / Mixed     Default: Filled (No need to mention it) <br/>
+Idea = Meaningful Name for your idea. (Use pascal case for compound words eg. PakistaniFlag)
+  </li>
+  <li>Add the newly created method name and image of the result of calling it inside specified language pattern list. eg. JavaPatternList (You can get an idea from the already written code above in the file).</li>
 </ol>
