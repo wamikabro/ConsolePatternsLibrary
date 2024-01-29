@@ -26,19 +26,21 @@
   <li>Make sure to add single pattern in single contribution. You're welcomed to do multiple contributions.</li>
   <li>Pattern must be dynamic. Even if it's based on different dimensions, it must take some sort of size as input.</li>
   <li>Make class with your method name in pascal case inside your specified language Folder. (method name is defined in details below). </li>
-  <li>Pattern must be made inside a <b>private static int</b> return type method.</li>
+  <li>Pattern must be made inside a <b>protected static void</b> type method.</li>
   <li>Method name should be pattern().</li>
   <li>Method should contain single pattern.</li>
   <li>You can use multiple private methods to support your private method.</li>
   <li>You can use asteric(stars), numbers, symbols and alphabets (and their mixture) in the pattern. (Basically all the ascii supported characters)</li>
   <li>Only For loop from the loops and its variations are allowed.</li>
-  <li>Call your method inside another public method in your language specified main class present in the repository. eg. JavaPatterns.java (make sure to pass all the parameters respectfully from the newly created method to the method that you called. (your protected pattern method from the class that you created)</li>
+  <li>Call your method inside another public method in JavaPatterns.java class present in the repository. It has already imported all the classes that are inside Java. (make sure to pass all the parameters respectfully from the newly created method to the method that you called. (your protected pattern method from the class that you created)</li>
   <li>Newly created Method's name should be in Camel Case.</li>
   <li>Newly created Method's name should be in this format <br/>
 [DataType] [PatternType] [Idea] eg. numberedHollowTriangle(). (You can get an idea from the already written code above in the file).<br/>
 DataType = Numbered / Alphabetic / Symboled / Mixed     Default: Asterisk (No need to  mention it) <br/>
-PatternType = Hollow / Mixed     Default: Filled (No need to mention it) <br/>
+PatternType = Solid / Hollow / Mixed<br/>
 Idea = Meaningful Name for your idea. (Use pascal case for compound words eg. PakistaniFlag)
   </li>
   <li>Add the newly created method name and image of the result of calling it inside specified language pattern list. eg. JavaPatternList (You can get an idea from the already written code above in the file).</li>
 </ol>
+<p>You will get an idea easily after forking and then cloning the repository. Every default class contains documentation that will help you work.</p>
+<p>Thanks for the contribution in advance!</p>
