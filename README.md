@@ -4,6 +4,7 @@
 <h2>Supported Languages</h2>
 <ol>
   <li>Java</li>
+  (We've temporarily removed python support.)
 </ol>
 
 <h2>How to Contribute?</h2>
