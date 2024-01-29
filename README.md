@@ -41,7 +41,7 @@ DataType = Numbered / Alphabetic / Symboled / Mixed     Default: Asterisk (No ne
 PatternType = Solid / Hollow / Mixed<br/>
 Idea = Meaningful Name for your idea. (Use pascal case for compound words eg. PakistaniFlag)
   </li>
-  <li>Add the Pattern's Method name, Signature and URL (Get URL by uploading the screenshot in any github repository) of the result's image of calling it inside JavaPatternList (You can get an idea from the already written code above in the file).</li>
+  <li>Add the Pattern's Method name, Signature and Screenshot of the result. (You can get an idea from the already written code above in the file).</li>
 </ol>
 <p>You will get an idea easily after forking and then cloning the repository. Every default class contains documentation that will help you work.</p>
 <p>Thanks for the contribution in advance!</p>
