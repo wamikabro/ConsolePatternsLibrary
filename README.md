@@ -1,5 +1,6 @@
 # ConsolePatternsLibrary
-<p>Your all-in-one library that contains all the patterns that you would love to visualize in your console window. Your contributions are welcomed. Together we build beautiful patterns.</p>
+<p>Your all-in-one library that contains all the patterns that you would love to visualize in your console window.<br/>All you need to do is download this library, import Java.* in your code, and then you can use JavaPatterns. class name to call any pattern you want. List of the names and visuals of the pattern are in JavaPatternsList.md, and you can also see the names when recommended after typing "JavaPatterns." in your IntelliJ/VisualStudio (Or any other IDE).
+Your contributions are welcomed. Together we build beautiful patterns.</p>
 <p><b>Note: Before Committing, must read How to Contribute?, Supported Languages and Contribution Rules.</b></p>
 <h2>Supported Languages</h2>
 <ol>
