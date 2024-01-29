@@ -21,8 +21,17 @@
 <h2>Rules of Contribution</h2>
 <ol>
   <li>Make sure the language you're going to use is present in supported languages section above.</li>
+  <li>Make sure pattern isn't already available in the same language.</li>
   <li>Pattern must be dynamic. Even if it's based on different dimensions, it must take some sort of size as input.</li>
   <li>Pattern must be made inside a static int return type method. (Method name should be unique from all other methods).</li>
+  <li>Method name should be in Camel Case.</li>
+  <li>Method's name should be in this format [DataType][PatternType][PatternName] eg. numberedHollowTriangle().
+DataType = Numbered / Alphabetic / Symboled / Mixed Default: Asterisk (No need to  mention it)
+PatternType = Hollow / Mixed Default: Filled (No need to mention it)
+PatternName = Meaningful Name for your idea. (Use pascal case for compound words)
+  </li>
+  <li>Method should contain single pattern.</li>
+  <li>You can use multiple private methods to support your public method.</li>
   <li>You can use asteric(stars), numbers, symbols and alphabets (and their mixture) in the pattern. (Basically all the ascii supported characters)</li>
   <li>Only For loop from the loops and its variations are allowed.</li>
   <li>Pattern must not contain nudity, racism or hate visuals (Country or Ethnic Flags are allowed).</li>
