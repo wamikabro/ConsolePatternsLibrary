@@ -10,5 +10,9 @@ public class JavaPatterns {
         SolidSquare.pattern(size);
     }
 
+    public static void solidHalfTriangle(int size){
+        SolidHalfTriangle.pattern(size);
+    }
+
     // continue creating your methods from here.
 }
