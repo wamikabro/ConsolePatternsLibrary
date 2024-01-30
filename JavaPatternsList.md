@@ -12,5 +12,5 @@
 <div align="center">
 <h2>1. solidHalfTriangle(int size)</h2>
 
-
+![image](https://github.com/wamikabro/ConsolePatternsLibrary/assets/62086478/538e2a51-0fe3-42ee-9b8e-f942d96201a7)
 </div>
